@@ -36,3 +36,33 @@
     transform: rotate(360deg);
   }
 }
+
+
+/* My styles */
+.container {
+  padding: 0 1rem;
+}
+
+.btn {
+  display: inline-block;
+  border: none;
+  background: #555;
+  color: #fff;
+  padding: 7px 20px;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background: #666;
+}
+.btn-style{
+  background: "#ff0000";
+  color: "#fff";
+  border: "none";
+  padding: "5px 9px";
+  border-radius: "50%";
+  cursor: "pointer";
+  float: "right";
+}
+
+/* My Styles */
